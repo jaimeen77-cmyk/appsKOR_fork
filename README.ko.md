@@ -1,4 +1,6 @@
-8# MGU Custom Apps 한국어판
+# MGU Custom Apps 한국어판
+
+KOR translation : 잼님
 
 원본: https://github.com/cauliflowermossgrape/idrive7-apps
 
@@ -10,7 +12,7 @@
 - Redline, Service, M Vitals, eDrive, Live Data, G-Force, Warm-Up, Virtual Dyno,
   Brake Test, Drag Timer, Fault Scanner, Engine Config, Transmission Config,
   Doom의 공통 설정 및 앱 표시 문구 번역.
-- `kit/runtime/locales/ko.tsv`와 `ko.json`: 한국어 사전 1,774개 항목.
+- `kit/runtime/locales/ko.tsv`와 `ko.json`: 한국어 사전 3,612개 항목.
 - Noto Sans CJK KR 기반 한글 글꼴. 번역에 쓰인 모든 글자, KS X 1001의 완성형
   한글 2,350자, 호환 자모, 숫자·단위·기호를 하나의 공용 아틀라스에 포함.
 - 한국어가 들어 있는 문장을 한글 글꼴로 그리도록 공통 런타임 수정.
